@@ -1,5 +1,5 @@
 <template>
-    <header class= "flex flex-row w-full bg-green-400 border-b-2 border-gray-400 max-sm:justify-between relative">
+    <header class= "flex flex-row w-full items-center bg-green-400 border-b-2 border-gray-400 max-sm:justify-between relative">
       <div class = "basis-1/4 items-center justify-start px-8 min-w-40 max-sm:basis-auto">
         <img src="assets/images/logo.jpg" class = "w-16 h-16 bg-transparent">
       </div>
